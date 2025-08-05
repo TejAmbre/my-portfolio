@@ -171,7 +171,7 @@ const activities = [
 ];
 
 // Photo path — make sure /public/cricket-head.jpg exists
-const photoUrl = "/cricket-head.jpg";
+const photoUrl = "/my-portfolio/cricket-head.jpg";
 
 export default function ExtracurricularSection() {
   const [isModalOpen, setIsModalOpen] = useState(false);
